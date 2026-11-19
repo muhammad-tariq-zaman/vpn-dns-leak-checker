@@ -1,0 +1,5 @@
+workstation,vpn_connected,expected_dns,actual_dns
+WS-01,yes,10.8.0.1,10.8.0.1
+WS-02,yes,10.8.0.1,8.8.8.8
+WS-03,no,10.8.0.1,192.168.1.1
+WS-04,yes,10.8.0.1,10.8.0.2
